@@ -4,5 +4,4 @@ kind: Kustomization
 namespace: vws-app
 resources:
   - vws-backend-deployment.yaml
-  - vws-backend-deployment-v2.yaml
   - vws-backend-service.yaml
